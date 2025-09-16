@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#card{
+	margin:20px;
+	background-color:#ddd;
+	justify-content:center;
+	align-items:center;
+	width:300px;
+	height:500px;
+	border-radius: 5px;
+	text-align:center;
+}
+img{
+	height: 150px;
+	padding:40px 40px 10px;
+}
+button{
+	padding:15px;
+	font-size:20px;
+	background-color:red;
+	color: white;
+	border:none;
+	border-radius:5px;
+}
